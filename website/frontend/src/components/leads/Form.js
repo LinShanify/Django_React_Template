@@ -65,7 +65,7 @@ export class Form extends Component {
               value={message}
             />
           </div>
-          <div className="form-group">
+          <div className="form-group mt-3">
             <button type="submit" className="btn btn-primary">
               Submit
             </button>
